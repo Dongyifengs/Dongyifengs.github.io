@@ -2,6 +2,7 @@
 </script>
 
 <template>
+  Test Application
 </template>
 
 <style scoped>
