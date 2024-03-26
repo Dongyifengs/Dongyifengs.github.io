@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  Test Application
+  <router-view></router-view>
 </template>
 
 <style scoped>
